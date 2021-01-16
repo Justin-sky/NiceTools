@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nice-Tools", "Nice-Tools\Nice-Tools.csproj", "{A10EAE0E-AE9E-4444-B057-FCE7C752CA1A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelExporter", "ExcelExporter\ExcelExporter.csproj", "{E7AE4329-FE0F-4405-A211-B140120B6AC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A10EAE0E-AE9E-4444-B057-FCE7C752CA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10EAE0E-AE9E-4444-B057-FCE7C752CA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10EAE0E-AE9E-4444-B057-FCE7C752CA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10EAE0E-AE9E-4444-B057-FCE7C752CA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7AE4329-FE0F-4405-A211-B140120B6AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AE4329-FE0F-4405-A211-B140120B6AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AE4329-FE0F-4405-A211-B140120B6AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AE4329-FE0F-4405-A211-B140120B6AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5327C884-F5CD-4E9F-9AA8-BF74B15E4009}
+	EndGlobalSection
+EndGlobal

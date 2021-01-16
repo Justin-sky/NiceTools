@@ -1,0 +1,16 @@
+namespace fb; 
+table heroconfigTB
+{
+	 heroconfigTRS:[heroconfigTR];
+}
+
+table heroconfigTR
+{
+	 _id:int(key);
+	 _baseatk:float;
+	 _sp:float;
+	 _hp:float;
+	 _attackdistance:float;
+	 _attackinterval:float;
+}
+root_type heroconfigTB;
